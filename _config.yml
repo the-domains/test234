@@ -1,7 +1,7 @@
 name: test234
 favicon: null
-layout_spectrum: 0.6168461602646858
-typography_spectrum: 0.5733341006562114
+layout_spectrum: 0.90723
+typography_spectrum: 0.72457
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.6994260486681014
-  lightness: 0.6087845764122903
-  saturation: 0.4302648203447461
-  rhythmicContrast: 0.16591072920709848
+  brandStrength: 0.5625
+  lightness: 0.6875
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
