@@ -1,0 +1,28 @@
+name: test234
+favicon: null
+layout_spectrum: 0.6168461602646858
+typography_spectrum: 0.5733341006562114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6994260486681014
+  lightness: 0.6087845764122903
+  saturation: 0.4302648203447461
+  rhythmicContrast: 0.16591072920709848
+purpose: []
